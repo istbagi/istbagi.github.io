@@ -151,17 +151,12 @@ section h2 {
 header.masthead {
   position: relative;
   width: 100%;
-  padding-top: 100px;
+  padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  /*
-    Galaxy Nebule apalette
-    http://www.color-hex.com/color-palette/38685
-    #8a2be2 #4b0082 #000222 #0091ff #0011ff
-  */
-  background: url("../img/bg-pattern.png"), ##0011ff;
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #8a2be2, #4b0082);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #000222, #0091ff);
+  background: url("../img/bg-pattern.png"), #7b4397;
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
 }
 
 header.masthead .header-content {
@@ -199,7 +194,7 @@ header.masthead .device-container .screen img {
     font-size: 50px;
   }
   header.masthead .device-container {
-    max-width: 525px;
+    max-width: 325px;
   }
 }
 
