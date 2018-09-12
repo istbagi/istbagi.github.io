@@ -1,0 +1,31 @@
+{
+    "showPopup": true,
+    "newAppURL": {
+        "androidAppURL": "https://play.google.com/store/apps/details?id=com.fgb.digisales",
+        "iosAppURL": "https://itunes.apple.com/ae/app/nbad-mobile-banking/id991751650?mt=8"
+    },
+    "cutOverDates": {
+        "beforeCutOver": "15-11-2018 00:00:00",
+        "cutOverStart": "29-11-2018 00:00:00",
+        "cutOverEnd": "04-12-2018 00:00:00"
+    },
+    "messagesEN": {
+        "beforeCutOver": [
+                                "Important Information, ",
+                                "We are upgrading Mobile Banking to improve your experience.  The service will be unavailable from 12am 29 November to 8am 4 December",
+                                "Thank you for your understanding.  For more information, please see our FAQs [insert link]"
+                                ],
+        "cutOverStart": "Hello World 2",
+        "cutOverEnd": "Welcome back, our new FAB Mobile Banking app is now available to download from your App store."
+    },
+    "messagesAR": {
+        "beforeCutOver": [
+                                "معلومة هامة",
+                                "نعمل حالياً على تحديث خدماتنا المصرفية عبر الهاتف المُتحرك بهدف تحسين تجربتكم المصرفية معنا. يرجى العلم بأن هذه الخدمة لن تكون متوفرة خلال الفترة من 12:00 بعد منتصف الليل يوم 29 نوفمبر وحتى الساعة 8:00 صباح يوم 4 ديسمبر.",
+                                "شكراً لتفهمكم. لمزيد من المعلومات يرجى الاطلاع على قائمة الأسئلة الشائعة [الرابط"
+        ],
+        "cutOverStart": "ArabicText2",
+        "cutOverEnd": "أهلاً بكم مجدداً. يمكنكم الآن تحميل تطبيق الخدمات المصرفية الجديد عبر الهاتف المُتحرك من متجر  التطبيقات"
+
+    }
+}
