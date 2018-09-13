@@ -7,7 +7,7 @@
     "cutOverDates": {
         "beforeCutOver": "2018-11-15T00:00:00.000",
         "cutOverStart": "2018-11-29T00:00:00.000",
-        "cutOverEnd": "2018-12-04T00:00:00"
+        "cutOverEnd": "2018-12-04T00:00:00.000"
     },
     "messagesEN": {
         "beforeCutOver": [
