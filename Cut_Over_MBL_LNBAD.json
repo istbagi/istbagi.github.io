@@ -5,8 +5,8 @@
         "iosAppURL": "https://itunes.apple.com/ae/app/nbad-mobile-banking/id991751650?mt=8"
     },
     "cutOverDates": {
-        "beforeCutOver": "2018-11-15T00:00:00",
-        "cutOverStart": "2018-11-29T00:00:00",
+        "beforeCutOver": "2018-11-15T00:00:00.000",
+        "cutOverStart": "2018-11-29T00:00:00.000",
         "cutOverEnd": "2018-12-04T00:00:00"
     },
     "messagesEN": {
