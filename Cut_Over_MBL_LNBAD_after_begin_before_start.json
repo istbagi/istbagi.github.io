@@ -1,5 +1,5 @@
 {
-    "showPopup": false,
+    "showPopup": true,
     "appNewURL": {
         "androidAppURL": "https://play.google.com/store/apps/details?id=com.fgb.digisales",
         "iosAppURL": "https://itunes.apple.com/ae/app/nbad-mobile-banking/id991751650?mt=8"
