@@ -11,10 +11,9 @@
     },
     "messagesEN": {
         "beforeCutOver": [
-                                "https://www.nbad.com/en-ae/contact-and-support/ways-to-bank/mobile-banking-faq.html",
                                 "Important Information, ",
                                 "We are upgrading Mobile Banking to improve your experience.  The service will be unavailable from 12am 29 November to 8am 4 December",
-                                "Thank you for your understanding.  For more information, please see our [FAQs]"
+                                "Thank you for your understanding.  For more information, please see our FAQs"
                                 ],
         "cutOverStart": "Hello World 2",
         "cutOverEnd": "Welcome back, our new FAB Mobile Banking app is now available to download from your App store."
